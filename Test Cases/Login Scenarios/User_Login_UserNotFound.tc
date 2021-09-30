@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User_Login_UserNotFound</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98774bd5-16c4-4412-afd3-9ea63202529a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Login_Data/LoginData').getValue(1, 2)</defaultValue>
+      <description></description>
+      <id>9d855c96-67ca-442e-bf14-af0c0b946e0f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Login_Data/LoginData').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>567046b8-9b6f-4572-a2d1-ec5852d0f956</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Login_Data/LoginData').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>96950edb-e882-413e-8e60-d83b6a359592</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
