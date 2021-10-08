@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>viewCustomerPayMeths</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1c761a8-6fc8-4a7c-9502-a5cfae826b8e</testCaseGuid>
+   <variable>
+      <defaultValue>'Marurui Customer'</defaultValue>
+      <description></description>
+      <id>d89c8f85-458f-4eb2-85d6-cd359b6460c0</id>
+      <masked>false</masked>
+      <name>customer_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Payment Methods'</defaultValue>
+      <description></description>
+      <id>09677e03-ce53-4bb7-89ea-192a1f6295eb</id>
+      <masked>false</masked>
+      <name>dp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b3f4e286-6e7a-4cd6-8388-777d0d57b9e1</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+</TestCaseEntity>

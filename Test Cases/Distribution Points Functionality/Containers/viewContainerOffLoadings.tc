@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>viewContainerOffLoadings</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59fc62a6-0ce4-40a5-a5d5-6e70a4a00275</testCaseGuid>
+   <variable>
+      <defaultValue>'ANDELA CONTAINER'</defaultValue>
+      <description></description>
+      <id>ff997031-88c9-4728-88f2-2587c51c9fa9</id>
+      <masked>false</masked>
+      <name>search_value</name>
+   </variable>
+</TestCaseEntity>

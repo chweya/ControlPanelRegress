@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>activateAsset</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>881d51c2-1d14-4add-b5fe-07ff91b792f1</testCaseGuid>
+   <variable>
+      <defaultValue>'Activate asset'</defaultValue>
+      <description></description>
+      <id>786e629c-5dc8-4622-9897-b53df5ab8d3d</id>
+      <masked>false</masked>
+      <name>asset_status</name>
+   </variable>
+   <variable>
+      <defaultValue>'activate asset'</defaultValue>
+      <description></description>
+      <id>f71cdb96-1029-4d55-b8db-8515678564ea</id>
+      <masked>false</masked>
+      <name>button_status</name>
+   </variable>
+   <variable>
+      <defaultValue>'active'</defaultValue>
+      <description></description>
+      <id>22c07ddb-2e7a-4f98-85fd-1197952add9f</id>
+      <masked>false</masked>
+      <name>updated_status</name>
+   </variable>
+</TestCaseEntity>

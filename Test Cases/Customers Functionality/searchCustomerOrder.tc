@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>searchCustomerOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>678ceb7f-ac20-4111-af5b-ce6c606b3ab5</testCaseGuid>
+   <variable>
+      <defaultValue>'Marurui Customer'</defaultValue>
+      <description></description>
+      <id>54462ea0-d60f-408f-a742-11a298ffcec1</id>
+      <masked>false</masked>
+      <name>customer_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'CB07506009L12021'</defaultValue>
+      <description></description>
+      <id>0eadcfca-dab0-4053-829a-80673a5ae941</id>
+      <masked>false</masked>
+      <name>batchNumber</name>
+   </variable>
+</TestCaseEntity>

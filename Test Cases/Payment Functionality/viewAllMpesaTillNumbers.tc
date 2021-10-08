@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>viewAllMpesaTillNumbers</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>11fd708e-d968-4914-b27f-6fc915fa1f14</testCaseGuid>
+   <variable>
+      <defaultValue>'M-PESA'</defaultValue>
+      <description></description>
+      <id>ee03cb7e-e1a1-4ce9-b153-b147285362ff</id>
+      <masked>false</masked>
+      <name>subMenu</name>
+   </variable>
+</TestCaseEntity>

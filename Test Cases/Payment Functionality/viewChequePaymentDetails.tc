@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>viewChequePaymentDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f195b819-e82f-45a8-990a-6974f1ac6870</testCaseGuid>
+   <variable>
+      <defaultValue>'Cheque'</defaultValue>
+      <description></description>
+      <id>a5221f02-c613-4e73-ac76-6caebf91cddc</id>
+      <masked>false</masked>
+      <name>subMenu</name>
+   </variable>
+   <variable>
+      <defaultValue>'1560272926143'</defaultValue>
+      <description></description>
+      <id>2f3f4a87-85fc-4fb1-aed3-54d4fa265ffa</id>
+      <masked>false</masked>
+      <name>chequeName</name>
+   </variable>
+</TestCaseEntity>

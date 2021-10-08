@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>lockDepot</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17fa9fea-3400-4389-a61d-4ec7e84d70c3</testCaseGuid>
+   <variable>
+      <defaultValue>'Kabati Manufacturing Plant'</defaultValue>
+      <description></description>
+      <id>35daf395-5252-48ef-b359-bf44c5302928</id>
+      <masked>false</masked>
+      <name>search_value</name>
+   </variable>
+</TestCaseEntity>

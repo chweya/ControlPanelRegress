@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login Scenario Test Suite" time="99.544" tests="5" failures="0" errors="0">
+   <testsuite name="Login Scenario Test Suite" tests="5" failures="0" errors="0" time="99.544" skipped="0" timestamp="2021-10-08 12:39:58" hostname="CChweya - PELAPPS14.protoenergy.local" id="Test Suites/Login Functionality/Login Scenario Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\CChweya\\AppData\\Local\\Programs\\Git\\cmd\\ControlPanelRegression\\Reports\\20211008_123953\\Login Functionality\\Login Scenario Test Suite\\20211008_123953"/>
+         <property name="logFiles" value="C:\\Users\\CChweya\\AppData\\Local\\Programs\\Git\\cmd\\ControlPanelRegression\\Reports\\20211008_123953\\Login Functionality\\Login Scenario Test Suite\\20211008_123953\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\CChweya\\AppData\\Local\\Programs\\Git\\cmd\\ControlPanelRegression\\Reports\\20211008_123953\\Login Functionality\\Login Scenario Test Suite\\20211008_123953\\1633686020383.png, C:\\Users\\CChweya\\AppData\\Local\\Programs\\Git\\cmd\\ControlPanelRegression\\Reports\\20211008_123953\\Login Functionality\\Login Scenario Test Suite\\20211008_123953\\1633686035683.png, C:\\Users\\CChweya\\AppData\\Local\\Programs\\Git\\cmd\\ControlPanelRegression\\Reports\\20211008_123953\\Login Functionality\\Login Scenario Test Suite\\20211008_123953\\1633686052115.png, C:\\Users\\CChweya\\AppData\\Local\\Programs\\Git\\cmd\\ControlPanelRegression\\Reports\\20211008_123953\\Login Functionality\\Login Scenario Test Suite\\20211008_123953\\1633686075549.png, C:\\Users\\CChweya\\AppData\\Local\\Programs\\Git\\cmd\\ControlPanelRegression\\Reports\\20211008_123953\\Login Functionality\\Login Scenario Test Suite\\20211008_123953\\1633686095952.png"/>
+         <property name="hostName" value="CChweya - PELAPPS14.protoenergy.local"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.1.0.208"/>
+         <property name="browser" value="Chrome 94.0.4606.71"/>
+         <property name="hostAddress" value="192.168.11.10"/>
+         <property name="sessionId" value="dc098c052568a7bf33f1608bce1be3ee"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login Scenarios/User_Login_EmailRequired" time="23.09" classname="Test Cases/Login Scenarios/User_Login_EmailRequired" status="PASSED">
+         <system-out><![CDATA[2021-10-08 12:39:58 - [TEST_CASE][PASSED] - Test Cases/Login Scenarios/User_Login_EmailRequired: Test Cases/Login Scenarios/User_Login_EmailRequired
+
+2021-10-08 12:39:59 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'https://protoosweb-qa.protoenergy.com/'
+
+2021-10-08 12:40:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-10-08 12:40:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-10-08 12:40:17 - [MESSAGE][PASSED] - Browser is opened with url: 'https://protoosweb-qa.protoenergy.com/'
+
+2021-10-08 12:40:17 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2021-10-08 12:40:17 - [MESSAGE][PASSED] - Current window maximized
+
+2021-10-08 12:40:17 - [TEST_STEP][PASSED] - setText(findTestObject("LoginScenario/input_Email address_email"), username): Text '' is set on object 'Object Repository/LoginScenario/input_Email address_email'
+
+2021-10-08 12:40:18 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/LoginScenario/input_Email address_email'
+
+2021-10-08 12:40:18 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("LoginScenario/input_Password_password"), password): Text ****** has been set on object 'Object Repository/LoginScenario/input_Password_password'
+
+2021-10-08 12:40:18 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/LoginScenario/input_Password_password'
+
+2021-10-08 12:40:18 - [TEST_STEP][PASSED] - click(findTestObject("LoginScenario/span_LOG IN")): Object: 'Object Repository/LoginScenario/span_LOG IN' is clicked on
+
+2021-10-08 12:40:19 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginScenario/span_LOG IN' is clicked on
+
+2021-10-08 12:40:19 - [TEST_STEP][PASSED] - result = getText(findTestObject("LoginScenario/errorMessages/email_required")): Text of object 'Object Repository/LoginScenario/errorMessages/email_required' is: 'Email is required'
+
+2021-10-08 12:40:19 - [MESSAGE][PASSED] - Text of object 'Object Repository/LoginScenario/errorMessages/email_required' is: 'Email is required'
+
+2021-10-08 12:40:19 - [TEST_STEP][PASSED] - verifyMatch(result, "Email is required", true): Actual text 'Email is required' and expected text 'Email is required' are matched  using regular expression
+
+2021-10-08 12:40:19 - [MESSAGE][PASSED] - Actual text 'Email is required' and expected text 'Email is required' are matched  using regular expression
+
+2021-10-08 12:40:19 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2021-10-08 12:40:20 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\CChweya\\AppData\\Local\\Programs\\Git\\cmd\\ControlPanelRegression\\Reports\\20211008_123953\\Login Functionality\\Login Scenario Test Suite\\20211008_123953\\1633686020383.png]]
+
+2021-10-08 12:40:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2021-10-08 12:40:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login Scenarios/User_Login_InvalidEmailPassword" time="14.753" classname="Test Cases/Login Scenarios/User_Login_InvalidEmailPassword" status="PASSED">
+         <system-out><![CDATA[2021-10-08 12:40:21 - [TEST_CASE][PASSED] - Test Cases/Login Scenarios/User_Login_InvalidEmailPassword: Test Cases/Login Scenarios/User_Login_InvalidEmailPassword
+
+2021-10-08 12:40:22 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'https://protoosweb-qa.protoenergy.com/'
+
+2021-10-08 12:40:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-10-08 12:40:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-10-08 12:40:31 - [MESSAGE][PASSED] - Browser is opened with url: 'https://protoosweb-qa.protoenergy.com/'
+
+2021-10-08 12:40:31 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2021-10-08 12:40:31 - [MESSAGE][PASSED] - Current window maximized
+
+2021-10-08 12:40:31 - [TEST_STEP][PASSED] - setText(findTestObject("LoginScenario/input_Email address_email"), username): Text 'system@protoenergy.com' is set on object 'Object Repository/LoginScenario/input_Email address_email'
+
+2021-10-08 12:40:32 - [MESSAGE][PASSED] - Text 'system@protoenergy.com' is set on object 'Object Repository/LoginScenario/input_Email address_email'
+
+2021-10-08 12:40:32 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("LoginScenario/input_Password_password"), password): Text ****** has been set on object 'Object Repository/LoginScenario/input_Password_password'
+
+2021-10-08 12:40:33 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/LoginScenario/input_Password_password'
+
+2021-10-08 12:40:33 - [TEST_STEP][PASSED] - click(findTestObject("LoginScenario/span_LOG IN")): Object: 'Object Repository/LoginScenario/span_LOG IN' is clicked on
+
+2021-10-08 12:40:33 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginScenario/span_LOG IN' is clicked on
+
+2021-10-08 12:40:33 - [TEST_STEP][PASSED] - getText(findTestObject("LoginScenario/errorMessages/invalid_email_password")): Text of object 'Object Repository/LoginScenario/errorMessages/invalid_email_password' is: 'Invalid email or password'
+
+2021-10-08 12:40:35 - [MESSAGE][PASSED] - Text of object 'Object Repository/LoginScenario/errorMessages/invalid_email_password' is: 'Invalid email or password'
+
+2021-10-08 12:40:35 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2021-10-08 12:40:35 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\CChweya\\AppData\\Local\\Programs\\Git\\cmd\\ControlPanelRegression\\Reports\\20211008_123953\\Login Functionality\\Login Scenario Test Suite\\20211008_123953\\1633686035683.png]]
+
+2021-10-08 12:40:35 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2021-10-08 12:40:36 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login Scenarios/User_Login_PasswordRequired" time="16.92" classname="Test Cases/Login Scenarios/User_Login_PasswordRequired" status="PASSED">
+         <system-out><![CDATA[2021-10-08 12:40:36 - [TEST_CASE][PASSED] - Test Cases/Login Scenarios/User_Login_PasswordRequired: Test Cases/Login Scenarios/User_Login_PasswordRequired
+
+2021-10-08 12:40:36 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'https://protoosweb-qa.protoenergy.com/'
+
+2021-10-08 12:40:37 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-10-08 12:40:37 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-10-08 12:40:49 - [MESSAGE][PASSED] - Browser is opened with url: 'https://protoosweb-qa.protoenergy.com/'
+
+2021-10-08 12:40:49 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2021-10-08 12:40:49 - [MESSAGE][PASSED] - Current window maximized
+
+2021-10-08 12:40:49 - [TEST_STEP][PASSED] - setText(findTestObject("LoginScenario/input_Email address_email"), username): Text 'system@protoenergy.com' is set on object 'Object Repository/LoginScenario/input_Email address_email'
+
+2021-10-08 12:40:50 - [MESSAGE][PASSED] - Text 'system@protoenergy.com' is set on object 'Object Repository/LoginScenario/input_Email address_email'
+
+2021-10-08 12:40:50 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("LoginScenario/input_Password_password"), password): Text ****** has been set on object 'Object Repository/LoginScenario/input_Password_password'
+
+2021-10-08 12:40:50 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/LoginScenario/input_Password_password'
+
+2021-10-08 12:40:50 - [TEST_STEP][PASSED] - click(findTestObject("LoginScenario/span_LOG IN")): Object: 'Object Repository/LoginScenario/span_LOG IN' is clicked on
+
+2021-10-08 12:40:51 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginScenario/span_LOG IN' is clicked on
+
+2021-10-08 12:40:51 - [TEST_STEP][PASSED] - result = getText(findTestObject("LoginScenario/errorMessages/password_required")): Text of object 'Object Repository/LoginScenario/errorMessages/password_required' is: 'Password is required'
+
+2021-10-08 12:40:51 - [MESSAGE][PASSED] - Text of object 'Object Repository/LoginScenario/errorMessages/password_required' is: 'Password is required'
+
+2021-10-08 12:40:51 - [TEST_STEP][PASSED] - verifyMatch(result, "Password is required", true): Actual text 'Password is required' and expected text 'Password is required' are matched  using regular expression
+
+2021-10-08 12:40:51 - [MESSAGE][PASSED] - Actual text 'Password is required' and expected text 'Password is required' are matched  using regular expression
+
+2021-10-08 12:40:51 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2021-10-08 12:40:52 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\CChweya\\AppData\\Local\\Programs\\Git\\cmd\\ControlPanelRegression\\Reports\\20211008_123953\\Login Functionality\\Login Scenario Test Suite\\20211008_123953\\1633686052115.png]]
+
+2021-10-08 12:40:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2021-10-08 12:40:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login Scenarios/User_Login_UserNotFound" time="23.834" classname="Test Cases/Login Scenarios/User_Login_UserNotFound" status="PASSED">
+         <system-out><![CDATA[2021-10-08 12:40:53 - [TEST_CASE][PASSED] - Test Cases/Login Scenarios/User_Login_UserNotFound: Test Cases/Login Scenarios/User_Login_UserNotFound
+
+2021-10-08 12:40:53 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'https://protoosweb-qa.protoenergy.com/'
+
+2021-10-08 12:40:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-10-08 12:40:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-10-08 12:41:11 - [MESSAGE][PASSED] - Browser is opened with url: 'https://protoosweb-qa.protoenergy.com/'
+
+2021-10-08 12:41:11 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2021-10-08 12:41:12 - [MESSAGE][PASSED] - Current window maximized
+
+2021-10-08 12:41:12 - [TEST_STEP][PASSED] - setText(findTestObject("LoginScenario/input_Email address_email"), username): Text 'system@protoenergyy.com' is set on object 'Object Repository/LoginScenario/input_Email address_email'
+
+2021-10-08 12:41:13 - [MESSAGE][PASSED] - Text 'system@protoenergyy.com' is set on object 'Object Repository/LoginScenario/input_Email address_email'
+
+2021-10-08 12:41:13 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("LoginScenario/input_Password_password"), password): Text ****** has been set on object 'Object Repository/LoginScenario/input_Password_password'
+
+2021-10-08 12:41:13 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/LoginScenario/input_Password_password'
+
+2021-10-08 12:41:13 - [TEST_STEP][PASSED] - click(findTestObject("LoginScenario/span_LOG IN")): Object: 'Object Repository/LoginScenario/span_LOG IN' is clicked on
+
+2021-10-08 12:41:14 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginScenario/span_LOG IN' is clicked on
+
+2021-10-08 12:41:14 - [TEST_STEP][PASSED] - result = getText(findTestObject("LoginScenario/errorMessages/user_not_found_message")): Text of object 'Object Repository/LoginScenario/errorMessages/user_not_found_message' is: 'User Not found'
+
+2021-10-08 12:41:15 - [MESSAGE][PASSED] - Text of object 'Object Repository/LoginScenario/errorMessages/user_not_found_message' is: 'User Not found'
+
+2021-10-08 12:41:15 - [TEST_STEP][PASSED] - verifyMatch(result, "User Not found", true): Actual text 'User Not found' and expected text 'User Not found' are matched  using regular expression
+
+2021-10-08 12:41:15 - [MESSAGE][PASSED] - Actual text 'User Not found' and expected text 'User Not found' are matched  using regular expression
+
+2021-10-08 12:41:15 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2021-10-08 12:41:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\CChweya\\AppData\\Local\\Programs\\Git\\cmd\\ControlPanelRegression\\Reports\\20211008_123953\\Login Functionality\\Login Scenario Test Suite\\20211008_123953\\1633686075549.png]]
+
+2021-10-08 12:41:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2021-10-08 12:41:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login Scenarios/User_Login_Correct_Credentials" time="19.604" classname="Test Cases/Login Scenarios/User_Login_Correct_Credentials" status="PASSED">
+         <system-out><![CDATA[2021-10-08 12:41:17 - [TEST_CASE][PASSED] - Test Cases/Login Scenarios/User_Login_Correct_Credentials: Test Cases/Login Scenarios/User_Login_Correct_Credentials
+
+2021-10-08 12:41:17 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Common Test Cases/User_Login"), ["username":findTestData("Login_Data/LoginData").getValue(1, 1), "password":findTestData("Login_Data/LoginData").getValue(2, 1), ... ], STOP_ON_FAILURE): Call Test Case 'Test Cases/Common Test Cases/User_Login' successfully
+
+2021-10-08 12:41:17 - [TEST_CASE][PASSED] - Test Cases/Common Test Cases/User_Login: Test Cases/Common Test Cases/User_Login
+
+2021-10-08 12:41:18 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'https://protoosweb-qa.protoenergy.com/'
+
+2021-10-08 12:41:18 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-10-08 12:41:18 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-10-08 12:41:27 - [MESSAGE][PASSED] - Browser is opened with url: 'https://protoosweb-qa.protoenergy.com/'
+
+2021-10-08 12:41:27 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2021-10-08 12:41:27 - [MESSAGE][PASSED] - Current window maximized
+
+2021-10-08 12:41:27 - [TEST_STEP][PASSED] - setText(findTestObject("LoginScenario/input_Email address_email"), username): Text 'system@protoenergy.com' is set on object 'Object Repository/LoginScenario/input_Email address_email'
+
+2021-10-08 12:41:28 - [MESSAGE][PASSED] - Text 'system@protoenergy.com' is set on object 'Object Repository/LoginScenario/input_Email address_email'
+
+2021-10-08 12:41:28 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("LoginScenario/input_Password_password"), password): Text ****** has been set on object 'Object Repository/LoginScenario/input_Password_password'
+
+2021-10-08 12:41:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/LoginScenario/input_Password_password'
+
+2021-10-08 12:41:29 - [TEST_STEP][PASSED] - click(findTestObject("LoginScenario/span_LOG IN")): Object: 'Object Repository/LoginScenario/span_LOG IN' is clicked on
+
+2021-10-08 12:41:30 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginScenario/span_LOG IN' is clicked on
+
+2021-10-08 12:41:30 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Common Test Cases/User_Login' successfully
+
+2021-10-08 12:41:30 - [TEST_STEP][PASSED] - click(findTestObject("LoginScenario/img_,_MuiAvatar-img")): Object: 'Object Repository/LoginScenario/img_,_MuiAvatar-img' is clicked on
+
+2021-10-08 12:41:34 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginScenario/img_,_MuiAvatar-img' is clicked on
+
+2021-10-08 12:41:34 - [TEST_STEP][PASSED] - click(findTestObject("LoginScenario/span_Log out")): Object: 'Object Repository/LoginScenario/span_Log out' is clicked on
+
+2021-10-08 12:41:35 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginScenario/span_Log out' is clicked on
+
+2021-10-08 12:41:35 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2021-10-08 12:41:36 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\CChweya\\AppData\\Local\\Programs\\Git\\cmd\\ControlPanelRegression\\Reports\\20211008_123953\\Login Functionality\\Login Scenario Test Suite\\20211008_123953\\1633686095952.png]]
+
+2021-10-08 12:41:36 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2021-10-08 12:41:36 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-10-08 12:39:58 - [TEST_SUITE][PASSED] - Login Scenario Test Suite: Test Cases/Login Scenarios/User_Login_Correct_Credentials]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

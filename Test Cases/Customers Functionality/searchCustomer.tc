@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>searchCustomer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f15855d-8308-404f-8adb-d6ff4ff264f4</testCaseGuid>
+   <variable>
+      <defaultValue>'Marurui Customer'</defaultValue>
+      <description></description>
+      <id>5ee54557-7c5f-4895-b1ff-69f8fbeba189</id>
+      <masked>false</masked>
+      <name>customer_name</name>
+   </variable>
+</TestCaseEntity>

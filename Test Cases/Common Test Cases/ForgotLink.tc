@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ForgotLink</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5739701b-71ea-432d-8b4b-273f318a928e</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Login_Data/LoginData').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>180b7bb2-303f-4a78-81b6-e67c2cb83663</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,5 @@
+{"testCaseName":"Test Cases/Login Scenarios/User_Login_EmailRequired","testCaseId":"Test Cases/Login Scenarios/User_Login_EmailRequired"}
+{"testCaseName":"Test Cases/Login Scenarios/User_Login_InvalidEmailPassword","testCaseId":"Test Cases/Login Scenarios/User_Login_InvalidEmailPassword"}
+{"testCaseName":"Test Cases/Login Scenarios/User_Login_PasswordRequired","testCaseId":"Test Cases/Login Scenarios/User_Login_PasswordRequired"}
+{"testCaseName":"Test Cases/Login Scenarios/User_Login_UserNotFound","testCaseId":"Test Cases/Login Scenarios/User_Login_UserNotFound"}
+{"testCaseName":"Test Cases/Login Scenarios/User_Login_Correct_Credentials","testCaseId":"Test Cases/Login Scenarios/User_Login_Correct_Credentials"}

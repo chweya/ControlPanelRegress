@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>viewAllBankTransfers</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08591f52-cf93-4136-8ee5-d98f4b703079</testCaseGuid>
+   <variable>
+      <defaultValue>'Bank'</defaultValue>
+      <description></description>
+      <id>2e86278d-f530-4444-9fc1-1fe0978f7145</id>
+      <masked>false</masked>
+      <name>subMenu</name>
+   </variable>
+</TestCaseEntity>

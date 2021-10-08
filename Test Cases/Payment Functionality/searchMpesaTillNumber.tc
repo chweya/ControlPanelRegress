@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>searchMpesaTillNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a75e4bf3-a9e3-482e-be14-eaf2a46c9e3a</testCaseGuid>
+   <variable>
+      <defaultValue>'M-PESA'</defaultValue>
+      <description></description>
+      <id>cf389473-3e25-4a81-b6ca-e13b6fc6a02e</id>
+      <masked>false</masked>
+      <name>subMenu</name>
+   </variable>
+   <variable>
+      <defaultValue>'950912'</defaultValue>
+      <description></description>
+      <id>4d4f4c01-2a77-429c-8ae4-9f73f9e38961</id>
+      <masked>false</masked>
+      <name>tillNumber</name>
+   </variable>
+</TestCaseEntity>

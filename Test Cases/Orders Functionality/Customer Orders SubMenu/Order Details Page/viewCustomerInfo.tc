@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>viewCustomerInfo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af7faf1f-db0d-48f8-a1a4-08974d127a04</testCaseGuid>
+   <variable>
+      <defaultValue>'CB0750611MLT2021'</defaultValue>
+      <description></description>
+      <id>5dfaeb96-5d47-42d3-b586-befa9c9f95ff</id>
+      <masked>false</masked>
+      <name>order</name>
+   </variable>
+   <variable>
+      <defaultValue>'Customer Info'</defaultValue>
+      <description></description>
+      <id>f61c655a-0f4a-4731-aeb7-67051dea5d09</id>
+      <masked>false</masked>
+      <name>details_tab</name>
+   </variable>
+</TestCaseEntity>

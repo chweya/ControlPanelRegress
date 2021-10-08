@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>searchAsset</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60427502-8990-4e70-ac0b-c39663612340</testCaseGuid>
+   <variable>
+      <defaultValue>'CHARLES 001A'</defaultValue>
+      <description></description>
+      <id>ca48b35b-adb6-4f4f-914e-8a2c5627522f</id>
+      <masked>false</masked>
+      <name>search_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Charles 001a'</defaultValue>
+      <description></description>
+      <id>bd59e07b-258a-4221-8a7c-91c3de9e6b4d</id>
+      <masked>false</masked>
+      <name>assert_value</name>
+   </variable>
+</TestCaseEntity>

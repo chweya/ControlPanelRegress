@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>deactivateAsset</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb747f52-d151-49cb-8ec7-32acb87c3d2f</testCaseGuid>
+   <variable>
+      <defaultValue>'Deactivate asset'</defaultValue>
+      <description></description>
+      <id>35f84fda-17bd-4c5f-a88a-98d49013a69c</id>
+      <masked>false</masked>
+      <name>asset_status</name>
+   </variable>
+   <variable>
+      <defaultValue>'deactivate asset'</defaultValue>
+      <description></description>
+      <id>0dea2d28-4e62-42f8-aba7-8044367db2f5</id>
+      <masked>false</masked>
+      <name>button_status</name>
+   </variable>
+   <variable>
+      <defaultValue>'inactive'</defaultValue>
+      <description></description>
+      <id>08751072-db47-467e-80ec-75ad02f86a70</id>
+      <masked>false</masked>
+      <name>updated_status</name>
+   </variable>
+</TestCaseEntity>

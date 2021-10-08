@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>searchCustomerDeliveryPoint</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b0fd95b-ef0c-4a0c-acc3-f4dd4c8bb985</testCaseGuid>
+   <variable>
+      <defaultValue>'Marurui Customer'</defaultValue>
+      <description></description>
+      <id>99155bff-dfbe-47dc-9168-cac0c946d069</id>
+      <masked>false</masked>
+      <name>customer_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Delivery points'</defaultValue>
+      <description></description>
+      <id>b76ce07c-1ecf-4c23-8c43-86070b43899a</id>
+      <masked>false</masked>
+      <name>dp</name>
+   </variable>
+   <variable>
+      <defaultValue>'009173'</defaultValue>
+      <description></description>
+      <id>74ab37da-4bac-4aed-b966-211a703ecc73</id>
+      <masked>false</masked>
+      <name>shop_code</name>
+   </variable>
+</TestCaseEntity>

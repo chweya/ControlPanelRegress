@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>deactivateCustomer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b5f4dcf-0e1f-455c-9695-3b3836d6521e</testCaseGuid>
+   <variable>
+      <defaultValue>'Marurui Customer'</defaultValue>
+      <description></description>
+      <id>b2035a6e-b8da-4b25-bb08-d24ca7b8c88b</id>
+      <masked>false</masked>
+      <name>customer_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Deactivate customer'</defaultValue>
+      <description></description>
+      <id>dbe31f73-0135-4f2c-8524-acbaf1f9e2ca</id>
+      <masked>false</masked>
+      <name>cust_status</name>
+   </variable>
+   <variable>
+      <defaultValue>'deactivate customer'</defaultValue>
+      <description></description>
+      <id>6c79cc9b-4e49-4298-9c74-f79d97725327</id>
+      <masked>false</masked>
+      <name>button_status</name>
+   </variable>
+   <variable>
+      <defaultValue>'inactive'</defaultValue>
+      <description></description>
+      <id>097bb876-2757-4b85-a606-d32395d86d69</id>
+      <masked>false</masked>
+      <name>after_status</name>
+   </variable>
+</TestCaseEntity>
