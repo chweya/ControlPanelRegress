@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>viewPaymentSummary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a15d483-ac74-4319-a425-535f6631a3c9</testCaseGuid>
+   <variable>
+      <defaultValue>'CB0750611MLT2021'</defaultValue>
+      <description></description>
+      <id>35b81489-b276-4419-91fa-41896446cf5b</id>
+      <masked>false</masked>
+      <name>order</name>
+   </variable>
+   <variable>
+      <defaultValue>'Payments Summary'</defaultValue>
+      <description></description>
+      <id>7cb5bb89-132c-4621-bc91-f5a82c5a8979</id>
+      <masked>false</masked>
+      <name>details_tab</name>
+   </variable>
+</TestCaseEntity>

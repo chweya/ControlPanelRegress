@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>activateCustomer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c8e0c8e-c09f-4451-a3b2-b30a502923f8</testCaseGuid>
+   <variable>
+      <defaultValue>'Marurui Customer'</defaultValue>
+      <description></description>
+      <id>99d5f3b1-e467-4fff-b0b0-4d5254910d79</id>
+      <masked>false</masked>
+      <name>customer_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Activate customer'</defaultValue>
+      <description></description>
+      <id>6c9f8fcd-ce8d-403d-984d-600ea5d575b6</id>
+      <masked>false</masked>
+      <name>cust_status</name>
+   </variable>
+   <variable>
+      <defaultValue>'activate customer'</defaultValue>
+      <description></description>
+      <id>a34ef662-d613-4905-b66a-eeed323582cd</id>
+      <masked>false</masked>
+      <name>button_status</name>
+   </variable>
+   <variable>
+      <defaultValue>'active'</defaultValue>
+      <description></description>
+      <id>42ce0f08-af12-4be6-9377-d94158e6d899</id>
+      <masked>false</masked>
+      <name>after_status</name>
+   </variable>
+</TestCaseEntity>

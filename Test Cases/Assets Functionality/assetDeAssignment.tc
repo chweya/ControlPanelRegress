@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>assetDeAssignment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e12926f-391c-4e50-a9d3-3460b75edaaf</testCaseGuid>
+   <variable>
+      <defaultValue>'Deassign'</defaultValue>
+      <description></description>
+      <id>674d3890-0059-4090-92ff-05956252c6ee</id>
+      <masked>false</masked>
+      <name>assign_button</name>
+   </variable>
+   <variable>
+      <defaultValue>'activate asset'</defaultValue>
+      <description></description>
+      <id>e8124f1d-dd85-4037-948d-78012d5f3941</id>
+      <masked>false</masked>
+      <name>button_status</name>
+   </variable>
+   <variable>
+      <defaultValue>'active'</defaultValue>
+      <description></description>
+      <id>2d1ffa01-af56-4078-b1b1-79b9973279eb</id>
+      <masked>false</masked>
+      <name>updated_status</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>viewAll_InvoicePayments</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d99bbc8b-db1f-4e3d-a5bb-9ea211c89475</testCaseGuid>
+   <variable>
+      <defaultValue>'Invoice'</defaultValue>
+      <description></description>
+      <id>747f8229-205a-4f3f-8cb5-04583e1c401a</id>
+      <masked>false</masked>
+      <name>subMenu</name>
+   </variable>
+</TestCaseEntity>

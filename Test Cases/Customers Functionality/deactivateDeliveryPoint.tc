@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>deactivateDeliveryPoint</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a04362ea-c85c-4f93-a52a-21adc15bd33f</testCaseGuid>
+   <variable>
+      <defaultValue>'Marurui Customer'</defaultValue>
+      <description></description>
+      <id>db262c0d-71b1-4123-8b13-dd3785da95aa</id>
+      <masked>false</masked>
+      <name>customer_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Delivery points'</defaultValue>
+      <description></description>
+      <id>7212af95-8fa4-4e00-a738-e07f0640840b</id>
+      <masked>false</masked>
+      <name>dp</name>
+   </variable>
+   <variable>
+      <defaultValue>'009173'</defaultValue>
+      <description></description>
+      <id>2ad73e13-b1e9-4904-8bf4-1644feabc978</id>
+      <masked>false</masked>
+      <name>shop_code</name>
+   </variable>
+</TestCaseEntity>

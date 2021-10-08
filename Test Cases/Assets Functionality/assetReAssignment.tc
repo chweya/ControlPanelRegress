@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>assetReAssignment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6d608cab-4efa-4b14-8ce8-76a0195d5572</testCaseGuid>
+   <variable>
+      <defaultValue>'Assign'</defaultValue>
+      <description></description>
+      <id>3f9c7f77-06a6-4731-9706-f4195702b5ba</id>
+      <masked>false</masked>
+      <name>assign_button</name>
+   </variable>
+</TestCaseEntity>

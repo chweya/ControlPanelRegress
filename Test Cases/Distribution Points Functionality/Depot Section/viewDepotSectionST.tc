@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>viewDepotSectionST</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f6ae472-2e5b-4753-8c27-f17266db4c2d</testCaseGuid>
+   <variable>
+      <defaultValue>'Kabati Manufacturing Plant'</defaultValue>
+      <description></description>
+      <id>30b57ebb-f961-403e-bacc-a903d0a94e57</id>
+      <masked>false</masked>
+      <name>search_value</name>
+   </variable>
+</TestCaseEntity>

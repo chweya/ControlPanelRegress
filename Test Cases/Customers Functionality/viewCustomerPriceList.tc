@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>viewCustomerPriceList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75d135d4-a183-4550-8faf-3f1b4d24833a</testCaseGuid>
+   <variable>
+      <defaultValue>'Marurui Customer'</defaultValue>
+      <description></description>
+      <id>8cb21bd3-b049-4f7d-a9ed-aa8d523eacce</id>
+      <masked>false</masked>
+      <name>customer_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Price List'</defaultValue>
+      <description></description>
+      <id>25207618-ceef-4b98-b6dd-297eac63b1b1</id>
+      <masked>false</masked>
+      <name>dp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>589c48b0-81b5-42f6-9361-9aaa4be06ae2</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+</TestCaseEntity>

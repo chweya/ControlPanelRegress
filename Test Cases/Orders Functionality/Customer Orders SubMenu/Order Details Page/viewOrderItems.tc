@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>viewOrderItems</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06957cc0-8ee7-45e4-97ca-94a655ac8d6c</testCaseGuid>
+   <variable>
+      <defaultValue>'CB0750611MLT2021'</defaultValue>
+      <description></description>
+      <id>8922a391-600c-49ae-83bd-ef518ab6646d</id>
+      <masked>false</masked>
+      <name>order</name>
+   </variable>
+   <variable>
+      <defaultValue>'Return Items'</defaultValue>
+      <description></description>
+      <id>f215f026-65af-457c-ba63-266994b13764</id>
+      <masked>false</masked>
+      <name>details_tab</name>
+   </variable>
+   <variable>
+      <defaultValue>'Order Items'</defaultValue>
+      <description></description>
+      <id>a478ad58-aa80-4e4c-8e0a-2034dcef33a2</id>
+      <masked>false</masked>
+      <name>tab1</name>
+   </variable>
+</TestCaseEntity>

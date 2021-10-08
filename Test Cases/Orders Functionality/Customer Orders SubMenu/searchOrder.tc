@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>searchOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1745eb2-bdb0-4329-97e6-7e1edc0b2b83</testCaseGuid>
+   <variable>
+      <defaultValue>'CB0750611MLT2021'</defaultValue>
+      <description></description>
+      <id>8aaa9db5-11ad-4679-ac21-fad6fa63c8cc</id>
+      <masked>false</masked>
+      <name>order</name>
+   </variable>
+</TestCaseEntity>

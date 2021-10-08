@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>viewTillNumberTransactions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2ced396-c625-4114-bcc5-22a2b6c27a14</testCaseGuid>
+   <variable>
+      <defaultValue>'M-PESA'</defaultValue>
+      <description></description>
+      <id>312c2cb3-b584-4444-8645-38d7377e3029</id>
+      <masked>false</masked>
+      <name>subMenu</name>
+   </variable>
+   <variable>
+      <defaultValue>'950912'</defaultValue>
+      <description></description>
+      <id>c2d223fd-8b60-4dd4-9609-1e7cec04d7c1</id>
+      <masked>false</masked>
+      <name>tillNumber</name>
+   </variable>
+</TestCaseEntity>

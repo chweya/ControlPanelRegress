@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>searchTripDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e372eed-4422-4d71-afac-b938cb810f49</testCaseGuid>
+   <variable>
+      <defaultValue>'PT0000009287'</defaultValue>
+      <description></description>
+      <id>65b92a8c-71cb-4c9b-bf65-d14c564c49d3</id>
+      <masked>false</masked>
+      <name>trip</name>
+   </variable>
+</TestCaseEntity>

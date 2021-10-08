@@ -1,0 +1,5 @@
+{"testCaseName":"Test Cases/Users Functionality/CC/createNewUser_DuplicateEmail","testCaseId":"Test Cases/Users Functionality/CC/createNewUser_DuplicateEmail"}
+{"testCaseName":"Test Cases/Users Functionality/CC/createNewUser_DuplicatePhoneNumber","testCaseId":"Test Cases/Users Functionality/CC/createNewUser_DuplicatePhoneNumber"}
+{"testCaseName":"Test Cases/Users Functionality/CC/createNewUser_DuplicateStaffNumber","testCaseId":"Test Cases/Users Functionality/CC/createNewUser_DuplicateStaffNumber"}
+{"testCaseName":"Test Cases/Users Functionality/CC/createNewUser_Validation","testCaseId":"Test Cases/Users Functionality/CC/createNewUser_Validation"}
+{"testCaseName":"Test Cases/Users Functionality/CC/createNewUser_ValidEntries","testCaseId":"Test Cases/Users Functionality/CC/createNewUser_ValidEntries"}

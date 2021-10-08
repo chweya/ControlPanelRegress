@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>activateDeliveryPoint</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>996f568c-b9f0-4e00-9964-502e78560b6e</testCaseGuid>
+   <variable>
+      <defaultValue>'Marurui Customer'</defaultValue>
+      <description></description>
+      <id>1ccf2231-3a93-433d-bd5c-0276f5458700</id>
+      <masked>false</masked>
+      <name>customer_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Delivery points'</defaultValue>
+      <description></description>
+      <id>73f994bc-9a3d-4e3b-bbbe-caf9ecd5c1d1</id>
+      <masked>false</masked>
+      <name>dp</name>
+   </variable>
+   <variable>
+      <defaultValue>'009173'</defaultValue>
+      <description></description>
+      <id>99a3a568-0735-42e9-8221-90512bb3ac43</id>
+      <masked>false</masked>
+      <name>shop_code</name>
+   </variable>
+   <variable>
+      <defaultValue>'Activate shop'</defaultValue>
+      <description></description>
+      <id>4d2aafb8-c626-42ac-833a-9c5ca595ee10</id>
+      <masked>false</masked>
+      <name>shop_status</name>
+   </variable>
+</TestCaseEntity>

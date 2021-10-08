@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Common_searchUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a7c6c12-1bbc-46d6-b90f-94e905b5707e</testCaseGuid>
+   <variable>
+      <defaultValue>'AutoTestUser'</defaultValue>
+      <description></description>
+      <id>544a3ac8-3bfa-4648-a763-48dea47975ca</id>
+      <masked>false</masked>
+      <name>search_name</name>
+   </variable>
+</TestCaseEntity>

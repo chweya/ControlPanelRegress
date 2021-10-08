@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>viewInvoicePaymentTransactions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce22cdd7-fa6c-4f44-9626-3da5b0c3d884</testCaseGuid>
+   <variable>
+      <defaultValue>'Invoice'</defaultValue>
+      <description></description>
+      <id>fe655fd3-1308-4989-a6a3-d0917717a567</id>
+      <masked>false</masked>
+      <name>subMenu</name>
+   </variable>
+   <variable>
+      <defaultValue>'042184'</defaultValue>
+      <description></description>
+      <id>a9e99ce5-cfae-4c48-8e06-20ea7284f489</id>
+      <masked>false</masked>
+      <name>invoiceName</name>
+   </variable>
+</TestCaseEntity>

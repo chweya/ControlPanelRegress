@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>viewCustomerDeliveryPoint</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1fc166e3-ad90-4cf2-b28d-272b3ca23abd</testCaseGuid>
+   <variable>
+      <defaultValue>'Marurui Customer'</defaultValue>
+      <description></description>
+      <id>7f21f751-85e4-4333-9165-5b2472a2929d</id>
+      <masked>false</masked>
+      <name>customer_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Delivery points'</defaultValue>
+      <description></description>
+      <id>ccdfe764-0cfa-4cd6-9c72-b6b408b4253b</id>
+      <masked>false</masked>
+      <name>dp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ea30e7d-4217-4fbe-b2c8-d8bf5b28a10c</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+</TestCaseEntity>
